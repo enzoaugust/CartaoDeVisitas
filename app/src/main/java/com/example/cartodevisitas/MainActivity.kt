@@ -110,7 +110,7 @@ fun Rodape() {
 
              )
              Text(
-                 text = "Enzo Augusto Soares",
+                 text = "Enzo Augusto Soares ",
                  fontSize = 30.sp,
                  color = Color.Black,
                  fontWeight = FontWeight.Bold
